@@ -43,14 +43,15 @@ claude-desktop-for-product-managers/
 ├── docs/
 │   ├── START_HERE.md         — reading path for contributors
 │   └── course-architecture.md — modules, sequence, lesson shape
-└── course-materials/
-    ├── README.md
-    ├── COMPANION_INSTRUCTIONS.md — how Claude should behave as course companion
-    ├── lesson-modules/       — module-0 through module-6
-    ├── company-context/      — practice company materials (Phase 1)
-    └── exercises/            — raw files learners work against
+├── course-materials/
+│   ├── README.md
+│   ├── COMPANION_INSTRUCTIONS.md — how Claude should behave as course companion
+│   ├── lesson-modules/       — module-0 through module-6
+│   ├── company-context/      — practice company materials (Phase 1)
+│   └── exercises/            — raw files learners work against
+└── website/                  — reference site (Astro + Starlight, static)
 ```
 
 ## Current status
 
-Initial bootstrap. Root contracts, course architecture, and module skeletons exist. The practice company, full lesson set, and reference site do not — see `PLAN.md`.
+Initial bootstrap. Root contracts, course architecture, module skeletons, and the reference-site scaffold (Astro + Starlight) exist. The practice company and full lesson set do not — see `PLAN.md`.

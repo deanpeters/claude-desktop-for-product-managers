@@ -36,7 +36,7 @@ If a Desktop capability isn't on this map, either add it at its narrative moment
 
 One folder, opened in a Claude Desktop Cowork session. The learner works through lessons in order, on real files, with Claude as both instructor and working partner. `COMPANION_INSTRUCTIONS.md` tells Claude how to behave in that role.
 
-A reference layer (Phase 4) will support lookup and recap. The interactive track is canonical.
+A reference site (`website/`, Astro + Starlight) supports lookup and recap. The interactive track is canonical.
 
 ## Modules
 
@@ -153,4 +153,4 @@ Claude Desktop is where this course lives, and it deliberately teaches the trade
 
 - no practice company yet (Phase 1 decision, made deliberately)
 - no claimed automation or slash-command runtime that isn't wired up
-- no reference site yet
+- the reference site is a scaffold — content stays intentionally light until the lesson model hardens in Phase 2

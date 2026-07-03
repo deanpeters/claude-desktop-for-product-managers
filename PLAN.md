@@ -12,6 +12,7 @@ A publishable, Claude Desktop-native course for Product Managers: an interactive
 - [x] Course architecture and module skeletons (module-0 through module-6)
 - [x] Companion instructions for Claude-as-instructor
 - [x] Git initialized, first commit
+- [x] Reference-site scaffold: Astro + Starlight, one overview page per module
 
 ## Phase 1: Practice company
 
@@ -33,8 +34,10 @@ The company docs should plant a HiPPO — a senior stakeholder with a bloated, c
 
 ## Phase 4: Reference layer and publishing
 
-- Decide the reference surface (site, or in-repo guides)
-- Sync lesson content into reference pages
+The reference surface is decided: `website/`, built on Astro + Starlight (static output, Pagefind search) — deliberately not the Next.js + Nextra route most course sites take.
+
+- Sync lesson content into reference pages as lessons land (one directory per module, matching the sidebar)
+- Set the production `site` URL in `astro.config.mjs`, style the homepage, prepare deployment
 - Prepare distribution: how a PM actually gets this folder onto their machine
 
 ## Phase 5: Launch readiness

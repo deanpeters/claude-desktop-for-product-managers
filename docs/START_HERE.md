@@ -13,7 +13,7 @@ Then pick your lane:
 
 - **Course design** — work in `course-materials/`. This is the product.
 - **Repo framing** — root docs and `docs/`.
-- **Reference layer** — doesn't exist yet; see `PLAN.md` Phase 4 before inventing it.
+- **Reference layer** — `website/` (Astro + Starlight). Summarize lessons, never fork them; `course-materials/` stays canonical.
 
 ## Rules of the road
 
