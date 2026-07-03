@@ -26,6 +26,8 @@ The course covers **every element of Claude Desktop**, but never as a feature to
 | Projects, memory | Module 5 | durable context |
 | Skills | Module 5 | repeatable workflows |
 | Connectors (MCP) | Module 5 | reaching the team's tools |
+| Loops and goals | Module 5 | longer-running work with checkpoints |
+| Scheduled tasks / routines | Module 6 | standing agents that keep reporting current |
 | Everything combined | Module 6 | taking the product to market |
 
 If a Desktop capability isn't on this map, either add it at its narrative moment or consciously leave it out — no orphaned feature lessons.
@@ -82,6 +84,7 @@ A reference layer (Phase 4) will support lookup and recap. The interactive track
 - Projects and memory: giving Claude durable context
 - Skills: packaging a repeatable workflow so it runs the same way twice
 - connectors: reaching the tools your team already lives in
+- loops and goals: giving Claude an outcome and a cadence instead of one prompt at a time
 - quality-control patterns and review discipline
 - packaging output for teams and stakeholders
 
@@ -94,6 +97,7 @@ One big bundle — messaging, development, deployment, and GTM planning — wher
 - building the demo: a landing page or product demo in an Artifact
 - the GTM plan: segments, channels, packaging, launch tiers
 - deployment and rollout: phasing, risks, sales and support enablement
+- automating the reporting: routines and scheduled tasks — standing agents that keep the PM and stakeholders current without anyone compiling a status deck
 - launch review: measurement plan and the post-launch learning loop
 
 This module deliberately reuses the Module 5 toolkit — Skills for repeatable launch assets, connectors to push work into team tools — so the capstone doubles as proof the learner's workflow is real.

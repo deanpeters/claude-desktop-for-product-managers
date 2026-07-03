@@ -9,10 +9,11 @@ One big bundle — messaging, development, deployment, and GTM planning. The pro
 - `6.3-building-the-demo/` — a landing page or product demo in an Artifact
 - `6.4-the-gtm-plan/` — segments, channels, packaging, launch tiers
 - `6.5-deployment-and-rollout/` — phasing, risks, sales and support enablement
-- `6.6-launch-review/` — measurement plan and the post-launch learning loop
+- `6.6-automating-the-reporting/` — routines and scheduled tasks: standing agents that keep you and your stakeholders current on launch metrics and status, so nobody hand-compiles a Monday deck again
+- `6.7-launch-review/` — measurement plan and the post-launch learning loop
 
 ## Capstone rule
 
-Lessons here deliberately lean on the Module 5 toolkit — Skills for repeatable launch assets, connectors to push work into team tools, Projects for durable launch context. If a learner can complete this module, their workflow is real.
+Lessons here deliberately lean on the Module 5 toolkit — Skills for repeatable launch assets, connectors to push work into team tools, Projects for durable launch context, loops and goals extended into standing routines. If a learner can complete this module, their workflow is real.
 
 Status: outlined, not yet written.
