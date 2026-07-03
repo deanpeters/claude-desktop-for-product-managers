@@ -24,11 +24,15 @@ Claude Desktop meets PMs where they already work:
 
 The course leans into those strengths instead of pretending the terminal is the point.
 
-## How the course works
+## Get the course
 
-1. Download (or clone) this repo.
-2. Open Claude Desktop and point a Cowork session at the `course-materials/` folder.
-3. Pick a lesson in `lesson-modules/` and work through it with Claude.
+You need two things: the Claude Desktop app, and a Claude account on a plan that includes Cowork. That's the whole prerequisite list — no terminal, no git, no installs beyond the app itself.
+
+1. Download this repo as a ZIP (the green **Code** button → **Download ZIP**) and unzip it somewhere you'll find again. Cloning works too, but it's never required.
+2. Open Claude Desktop and point a Cowork session at the unzipped `course-materials/` folder.
+3. Say: *"I'm starting the course — read COMPANION_INSTRUCTIONS.md and take me to Module 0."*
+
+The reference site lives at [cd4pm.deanpeters.com](https://cd4pm.deanpeters.com) for lookup and recap — but the folder in front of you is the course.
 
 Each lesson states an objective, the files to open, prompts to try, what a good result looks like, and where human judgment still matters.
 

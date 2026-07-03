@@ -53,9 +53,14 @@ The company docs should plant a HiPPO — a senior stakeholder with a bloated, c
 
 The reference surface is decided: `website/`, built on Astro + Starlight (static output, Pagefind search) — deliberately not the Next.js + Nextra route most course sites take.
 
+Hosting is decided too: static files on a Dreamhost subdomain, **cd4pm.deanpeters.com** — no Node on the server, build locally and rsync `dist/` up via `scripts/deploy.sh`. Later nicety: a GitHub Action that deploys on push to main.
+
+- [x] Set the production `site` URL in `astro.config.mjs`
+- [x] Deploy script (`scripts/deploy.sh`)
+- [ ] Create the subdomain in the Dreamhost panel and run the first deploy
 - Sync lesson content into reference pages as lessons land (one directory per module, matching the sidebar)
-- Set the production `site` URL in `astro.config.mjs`, style the homepage, prepare deployment
-- Prepare distribution: how a PM actually gets this folder onto their machine
+- Style the homepage
+- Distribution: "Get the course" is in the README (ZIP download, zero-terminal); revisit polish at v0.1
 
 ## Phase 5: Launch readiness
 

@@ -27,4 +27,7 @@ npm run build
 
 - One directory per module, matching the sidebar groups in `astro.config.mjs`.
 - Pages summarize and reinforce lessons; the six-field lesson files in `course-materials/` remain the source of truth. If the two drift, the site is wrong.
-- Set `site` in `astro.config.mjs` before the first deploy.
+
+## Deployment
+
+Static hosting on a Dreamhost subdomain: `https://cd4pm.deanpeters.com` (already set as `site` in `astro.config.mjs`). Build locally, then rsync `dist/` up — see `../scripts/deploy.sh`. The server needs nothing but files.

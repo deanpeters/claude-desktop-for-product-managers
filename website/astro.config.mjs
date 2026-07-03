@@ -2,7 +2,7 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 export default defineConfig({
-  // Set `site` to the production URL before first deploy.
+  site: "https://cd4pm.deanpeters.com",
   integrations: [
     starlight({
       title: "Claude Desktop for Product Managers",
