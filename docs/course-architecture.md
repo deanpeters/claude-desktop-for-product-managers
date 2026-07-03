@@ -64,11 +64,15 @@ A reference layer (Phase 4) will support lookup and recap. The interactive track
 
 ### Module 3: Shaping the opportunity
 
+The learn-fast core of the course: low-res idea in, high-res decision out.
+
 - framing the problem crisply
 - mapping and choosing among opportunity options
 - positioning the idea
-- shaping and pressure-testing a concept
-- **prototyping with Artifacts** — a clickable concept you can react to, no code detour
+- **naming the bet** — the riskiest assumption stated as a testable claim, with an explicit win condition: *"If we ___ for ___ then ___. We know we have succeeded when ___ and ___."*
+- **the minimum viable narrative** — six things and nothing more: who the user is, the situation and problem, the riskiest assumption, the win condition, the interaction sequence, what's explicitly excluded. Built to be thrown away.
+- **prototyping with Artifacts** — a clickable concept you can react to, no code detour. Brief like a collaborator: describe the goal, not the screens; let the tool propose; correct it at least once.
+- **pressure-test and decide** — pass / fail / inconclusive against the win condition, then a real call: go, no-go, or revise and retest. No maybe.
 
 ### Module 4: Turning the opportunity into delivery artifacts
 
@@ -131,12 +135,19 @@ The course models a sane product workflow:
 4. explore pains, gains, and jobs-to-be-done
 5. clarify the terrain with a framing canvas
 6. identify and choose an opportunity
-7. position the idea and shape a concept
-8. prototype something concrete enough to react to
-9. define the proof-of-concept slice, epic, and stories
-10. write the PRD only after all of the above improved the thinking
-11. turn positioning into messaging, a demo, and a launch narrative
-12. plan the go-to-market, rollout, and how you'll know it worked
+7. position the idea and name the bet — riskiest assumption, explicit win condition
+8. scaffold a minimum viable narrative and prototype something concrete enough to react to
+9. pressure-test against the win condition and decide: go, no-go, or revise and retest
+10. define the proof-of-concept slice, epic, and stories
+11. write the PRD only after all of the above improved the thinking
+12. turn positioning into messaging, a demo, and a launch narrative
+13. plan the go-to-market, rollout, and how you'll know it worked
+
+The spine follows Productside's "Vibe Coding to Learn" arc: low-res demand in, high-res decision out. Confidence isn't evidence — a prototype existing proves nothing until it changes what someone decides.
+
+## The graduation path
+
+Claude Desktop is where this course lives, and it deliberately teaches the trade-off it can't escape: a lo-code prototype generates clicks; a coding agent generates evidence — persistence, real state, logs of what users actually did. When a learner's bet needs that grade of proof, the handoff is Claude Code, and the preparation is the same three-file contract idea they've already practiced: context (what we're testing and why), contract (what to build, what to fake, what "done" means), constitution (what overrides everything else). A sibling Productside course covers that journey; this course ends by making the learner ready for it.
 
 ## Intentional omissions in this bootstrap
 

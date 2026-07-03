@@ -46,6 +46,7 @@ Assume zero terminal fluency. Assume high product fluency.
 3. Show failure modes and review points, not just happy paths.
 4. Prefer repeatable workflows over clever one-off prompts.
 5. PRD last: artifacts come after the thinking has improved.
+6. Confidence isn't evidence. We vibe to learn, not to earn: every concept ends in a real decision — go, no-go, or revise and retest. No maybe.
 
 ## Definition of done
 
