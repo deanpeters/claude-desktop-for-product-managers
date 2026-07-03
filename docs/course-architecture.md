@@ -145,6 +145,17 @@ The course models a sane product workflow:
 
 The spine follows Productside's "Vibe Coding to Learn" arc: low-res demand in, high-res decision out. Confidence isn't evidence — a prototype existing proves nothing until it changes what someone decides.
 
+## The zero-terminal promise
+
+The learner path never requires a terminal, a package manager, or a locally run server. This is a load-bearing constraint, not a preference — the course exists to remove the setup wall, and it must demonstrate its own thesis: Claude Desktop's Artifacts are the PM's interactive surface.
+
+Consequences, decided deliberately (2026-07):
+
+- **No separate app framework** for course interactivity. Server-backed app platforms (Streamlit and kin) were considered and rejected: they reintroduce the setup wall and quietly concede that Artifacts aren't enough.
+- Interactivity **inside the course** comes from Artifacts the learner builds or uses.
+- Interactivity **on the reference site**, if ever needed (progress checklist, win-condition builder), comes from Astro islands — same stack, static hosting, no server.
+- Wanting a richer course UX is a curriculum opportunity first: make the learner build it as an Artifact exercise.
+
 ## The graduation path
 
 Claude Desktop is where this course lives, and it deliberately teaches the trade-off it can't escape: a lo-code prototype generates clicks; a coding agent generates evidence — persistence, real state, logs of what users actually did. When a learner's bet needs that grade of proof, the handoff is Claude Code, and the preparation is the same three-file contract idea they've already practiced: context (what we're testing and why), contract (what to build, what to fake, what "done" means), constitution (what overrides everything else). A sibling Productside course covers that journey; this course ends by making the learner ready for it.

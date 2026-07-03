@@ -6,6 +6,23 @@ Build roadmap. Update as phases complete — this is the map, not a museum piece
 
 A publishable, Claude Desktop-native course for Product Managers: an interactive Cowork experience, realistic exercises, and a reference layer.
 
+## Milestone: v0.1 — "a stranger can start"
+
+**Definition of done:** a PM with zero setup knowledge can download this repo, point a Cowork session at `course-materials/`, and complete Module 0 and all of Module 1 against the real practice company — with working exercise files, honest checkpoint gating, and no dead links. The site builds clean and covers what's written.
+
+Sequenced steps:
+
+1. **Practice company** (Phase 1, the blocker for everything) — company overview, product overview, personas, competitive landscape, and the HiPPO's demand memo. *Gate: Dean approves the company concept before docs are written — client-IP and distinctness check.*
+2. **Exercise files for Modules 0–1** — discovery notes and supporting raw files, all derived from the approved company.
+3. **Write Module 0 (0.1–0.3) and finish Module 1 (1.2–1.4)** — lesson 1.1 already exists as the format exemplar.
+4. **Real learner pass** — Dean (or a volunteer PM) walks Module 0 → 1 in an actual Cowork session; capture friction; refine lessons and `COMPANION_INSTRUCTIONS.md`; lock the lesson format.
+5. **Site sync** — install deps, verify the build, add reference pages for every written lesson, fix links.
+6. **Front-door alignment and tag** — README/status honesty pass, decide public vs. private, tag `v0.1`.
+
+Explicitly **not** in v0.1: Modules 2–6 lesson content, site deployment/domain, instructor notes, distribution polish. The Module 2→3 learn-fast spine is the headline of v0.2.
+
+Open decisions for Dean: the company concept (step 1 gate), and whether the repo goes public at v0.1 or after the spine lands.
+
 ## Phase 0: Bootstrap (current)
 
 - [x] Root contracts: README, CLAUDE.md, CONSTITUTION, PLAN
