@@ -17,7 +17,7 @@ Then pick your lane:
 
 ## Rules of the road
 
-- Keep it clean-room. Structure may rhyme with siblings; words never do.
+- Keep it clean-room. Nothing imported, nothing paraphrased — every word written for this course.
 - One complete lesson beats seven vague ones.
 - No terminal required, ever, for the learner path.
 - Never promise automation that isn't wired up.

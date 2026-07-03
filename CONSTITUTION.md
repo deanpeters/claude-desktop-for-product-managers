@@ -24,9 +24,9 @@ The opinion this course holds: **Claude is most valuable when it helps a PM reas
 Everything here is written from scratch.
 
 - no copied or lightly paraphrased lesson text from other courses
-- no reused fictional company — the practice company here is distinct from every adjacent course's sandbox
+- no reused fictional company — the practice company is invented for this course and appears nowhere else
 - no replicated teaching scripts or brand language
-- structural inspiration from siblings is acknowledged; their words are never borrowed
+- inspiration is fine; imported words never are
 
 ## Client-IP boundary
 

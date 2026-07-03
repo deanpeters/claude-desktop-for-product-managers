@@ -33,7 +33,7 @@ Open decisions for Dean: the company concept (step 1 gate), and whether the repo
 
 ## Phase 1: Practice company
 
-Invent a fictional company from scratch — credible to working PMs, broad enough to carry the full arc from discovery through launch (Modules 0–6), and distinct from every adjacent course's sandbox (including OrbitOps and the field guide's company). Output: company overview, product overview, personas, competitive landscape in `course-materials/company-context/`.
+Invent a fictional company from scratch — credible to working PMs, broad enough to carry the full arc from discovery through launch (Modules 0–6), and not an echo of any fictional company used in another course we publish (verifying that is part of the concept gate below). Output: company overview, product overview, personas, competitive landscape in `course-materials/company-context/`.
 
 The company docs should plant a HiPPO — a senior stakeholder with a bloated, certain, plausible-sounding demand ("build me a dashboard that shows everything"). Not evil, just certain. That demand is the cold open the learner meets in Module 2 and learns to refuse, narrow, and test through Modules 3–4. Design the company so the demand feels inevitable.
 

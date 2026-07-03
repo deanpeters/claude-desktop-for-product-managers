@@ -2,7 +2,7 @@
 
 An interactive course that teaches Product Managers how to use Claude Desktop as a real working partner — on real files, with real judgment, producing real artifacts.
 
-This repository is a clean-room build: its own structure, copy, examples, practice company, and exercises. It shares a delivery pattern with sibling courses but no content.
+This repository is a clean-room build: its own structure, copy, examples, practice company, and exercises — written from scratch, borrowed from nowhere.
 
 ## What this repo is for
 

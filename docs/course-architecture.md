@@ -112,7 +112,7 @@ A fictional company, built in Phase 1. Requirements:
 
 - broad enough to carry every module
 - concrete enough to feel real to working PMs
-- distinct from the practice company of every adjacent course
+- invented for this course; not a reuse or echo of any other course's sandbox
 
 ## Lesson shape
 
@@ -158,7 +158,7 @@ Consequences, decided deliberately (2026-07):
 
 ## The graduation path
 
-Claude Desktop is where this course lives, and it deliberately teaches the trade-off it can't escape: a lo-code prototype generates clicks; a coding agent generates evidence — persistence, real state, logs of what users actually did. When a learner's bet needs that grade of proof, the handoff is Claude Code, and the preparation is the same three-file contract idea they've already practiced: context (what we're testing and why), contract (what to build, what to fake, what "done" means), constitution (what overrides everything else). A sibling Productside course covers that journey; this course ends by making the learner ready for it.
+Claude Desktop is where this course lives, and it deliberately teaches the trade-off it can't escape: a lo-code prototype generates clicks; a coding agent generates evidence — persistence, real state, logs of what users actually did. When a learner's bet needs that grade of proof, the handoff is Claude Code, and the preparation is the same three-file contract idea they've already practiced: context (what we're testing and why), contract (what to build, what to fake, what "done" means), constitution (what overrides everything else). A companion Productside course covers that journey; this course ends by making the learner ready for it.
 
 ## Intentional omissions in this bootstrap
 
