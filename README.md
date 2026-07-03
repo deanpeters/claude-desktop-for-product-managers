@@ -32,7 +32,7 @@ You need two things: the Claude Desktop app, and a Claude account on a plan that
 2. Open Claude Desktop and point a Cowork session at the unzipped `course-materials/` folder.
 3. Say: *"I'm starting the course — read COMPANION_INSTRUCTIONS.md and take me to Module 0."*
 
-The reference site lives at [cd4pm.deanpeters.com](https://cd4pm.deanpeters.com) for lookup and recap — but the folder in front of you is the course.
+The reference site lives at [cd4pms.deanpeters.com](https://cd4pms.deanpeters.com) for lookup and recap — but the folder in front of you is the course.
 
 Each lesson states an objective, the files to open, prompts to try, what a good result looks like, and where human judgment still matters.
 

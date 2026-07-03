@@ -2,7 +2,7 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 export default defineConfig({
-  site: "https://cd4pm.deanpeters.com",
+  site: "https://cd4pms.deanpeters.com",
   integrations: [
     starlight({
       title: "Claude Desktop for Product Managers",

@@ -30,4 +30,4 @@ npm run build
 
 ## Deployment
 
-Static hosting on a Dreamhost subdomain: `https://cd4pm.deanpeters.com` (already set as `site` in `astro.config.mjs`). Build locally, then rsync `dist/` up — see `../scripts/deploy.sh`. The server needs nothing but files.
+Static hosting on a Dreamhost subdomain: `https://cd4pms.deanpeters.com` (already set as `site` in `astro.config.mjs`). Build locally, then rsync `dist/` up — see `../scripts/deploy.sh`. The server needs nothing but files.
