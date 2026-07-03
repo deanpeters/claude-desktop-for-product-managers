@@ -11,7 +11,7 @@ A publishable, Claude Desktop-native course for Product Managers: an interactive
 - [x] Root contracts: README, CLAUDE.md, CONSTITUTION, PLAN
 - [x] Course architecture and module skeletons (module-0 through module-5)
 - [x] Companion instructions for Claude-as-instructor
-- [ ] Git initialized, first commit
+- [x] Git initialized, first commit
 
 ## Phase 1: Practice company
 
