@@ -9,13 +9,13 @@ A publishable, Claude Desktop-native course for Product Managers: an interactive
 ## Phase 0: Bootstrap (current)
 
 - [x] Root contracts: README, CLAUDE.md, CONSTITUTION, PLAN
-- [x] Course architecture and module skeletons (module-0 through module-5)
+- [x] Course architecture and module skeletons (module-0 through module-6)
 - [x] Companion instructions for Claude-as-instructor
 - [x] Git initialized, first commit
 
 ## Phase 1: Practice company
 
-Invent a fictional company from scratch — credible to working PMs, broad enough to carry all six modules, and distinct from every adjacent course's sandbox (including OrbitOps and the field guide's company). Output: company overview, product overview, personas, competitive landscape in `course-materials/company-context/`.
+Invent a fictional company from scratch — credible to working PMs, broad enough to carry the full arc from discovery through launch (Modules 0–6), and distinct from every adjacent course's sandbox (including OrbitOps and the field guide's company). Output: company overview, product overview, personas, competitive landscape in `course-materials/company-context/`.
 
 ## Phase 2: Harden one complete path
 
@@ -25,7 +25,7 @@ Invent a fictional company from scratch — credible to working PMs, broad enoug
 
 ## Phase 3: Fill the curriculum
 
-- Complete modules 0–5 against the locked format
+- Complete modules 0–6 against the locked format
 - Build exercise bundles: discovery notes, research snippets, small datasets, draft PRDs, strategy docs
 - Add instructor-facing notes where a lesson benefits from facilitation
 

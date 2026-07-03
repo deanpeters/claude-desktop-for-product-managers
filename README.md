@@ -46,7 +46,7 @@ claude-desktop-for-product-managers/
 └── course-materials/
     ├── README.md
     ├── COMPANION_INSTRUCTIONS.md — how Claude should behave as course companion
-    ├── lesson-modules/       — module-0 through module-5
+    ├── lesson-modules/       — module-0 through module-6
     ├── company-context/      — practice company materials (Phase 1)
     └── exercises/            — raw files learners work against
 ```

@@ -8,7 +8,27 @@ Take a learner from:
 
 to:
 
-"I can use Claude Desktop to digest context, pressure-test my thinking, prototype concepts, and produce delivery artifacts — and I know where my judgment is still the product."
+"I can use Claude Desktop to digest context, pressure-test my thinking, prototype concepts, produce delivery artifacts, and take an idea all the way to launch — and I know where my judgment is still the product."
+
+## The narrative lens
+
+The course covers **every element of Claude Desktop**, but never as a feature tour. Each capability is taught at the moment the product narrative needs it: one continuous story — from raw discovery to a launched product — where each module picks up where the last left off. The learner meets Artifacts because they need a prototype, not because Artifacts are next on a syllabus.
+
+### Coverage map
+
+| Claude Desktop element | Where it's taught | Narrative moment |
+|---|---|---|
+| Chat, models, Cowork on a folder | Module 0 | getting into the room |
+| Reading, synthesis, structured output, safe edits | Module 1 | digesting the company's context |
+| Web search | Module 2 | market and landscape scan |
+| Artifacts (concept prototyping) | Module 3 | something concrete to react to |
+| Analysis tool, file creation | Module 4 | delivery artifacts and small data |
+| Projects, memory | Module 5 | durable context |
+| Skills | Module 5 | repeatable workflows |
+| Connectors (MCP) | Module 5 | reaching the team's tools |
+| Everything combined | Module 6 | taking the product to market |
+
+If a Desktop capability isn't on this map, either add it at its narrative moment or consciously leave it out — no orphaned feature lessons.
 
 ## Delivery model
 
@@ -65,6 +85,19 @@ A reference layer (Phase 4) will support lookup and recap. The interactive track
 - quality-control patterns and review discipline
 - packaging output for teams and stakeholders
 
+### Module 6: Taking it to market (capstone)
+
+One big bundle — messaging, development, deployment, and GTM planning — where everything learned so far compounds on the same product the learner has carried since Module 2:
+
+- from positioning to messaging: message house, value props per persona
+- the launch narrative: announcement copy that survives contact with skeptics
+- building the demo: a landing page or product demo in an Artifact
+- the GTM plan: segments, channels, packaging, launch tiers
+- deployment and rollout: phasing, risks, sales and support enablement
+- launch review: measurement plan and the post-launch learning loop
+
+This module deliberately reuses the Module 5 toolkit — Skills for repeatable launch assets, connectors to push work into team tools — so the capstone doubles as proof the learner's workflow is real.
+
 ## Practice company
 
 A fictional company, built in Phase 1. Requirements:
@@ -98,6 +131,8 @@ The course models a sane product workflow:
 8. prototype something concrete enough to react to
 9. define the proof-of-concept slice, epic, and stories
 10. write the PRD only after all of the above improved the thinking
+11. turn positioning into messaging, a demo, and a launch narrative
+12. plan the go-to-market, rollout, and how you'll know it worked
 
 ## Intentional omissions in this bootstrap
 
