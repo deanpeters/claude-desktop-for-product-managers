@@ -1,61 +1,41 @@
-# claude-desktop-for-product-managers
+# Claude Desktop for Product Managers
 
-An interactive course that teaches Product Managers how to use Claude Desktop as a real working partner — on real files, with real judgment, producing real artifacts.
+A learning companion by product managers, for product managers.
 
-This repository is a clean-room build: its own structure, copy, examples, practice company, and exercises — written from scratch, borrowed from nowhere.
+It doesn't matter whether you're a new associate PM or a CPO, or whether you've never opened Claude Desktop before. If you do product work, this course is for you. You'll learn to use AI to get real, day-to-day product management work done, with Claude Desktop as an assistant that amplifies, accelerates, and augments your collaboration and your decision making.
 
-## What this repo is for
-
-Two jobs:
-
-1. Give Product Managers a hands-on way to learn Claude Desktop by doing actual product work — not by watching demos.
-2. Publish reference material that supports the interactive course with fast lookup guides.
-
-The audience is smart, capable people who are not full-time programmers and may never open a terminal. The goal is not "teach PMs to code." The goal is "help PMs use Claude Desktop well enough to think better, move faster, and ship stronger artifacts."
-
-## Why Claude Desktop
-
-Claude Desktop meets PMs where they already work:
-
-- **Cowork mode** operates directly on a folder of files — no git, no CLI, no setup wall.
-- **Artifacts** turn "prototype something you can react to" into a native step, not a coding detour.
-- **Projects and memory** make repeatable, team-shaped workflows possible.
-- **Skills and connectors** reach the tools PMs already live in.
-
-The course leans into those strengths instead of pretending the terminal is the point.
+No coding. No terminal. No setup wall. You work on realistic product files, the way you'd work with a sharp colleague.
 
 ## Get the course
 
-You need two things: the Claude Desktop app, and a Claude account on a plan that includes Cowork. That's the whole prerequisite list — no terminal, no git, no installs beyond the app itself.
+You need two things: the Claude Desktop app, and a Claude account on a plan that includes Cowork. That's the whole prerequisite list.
 
-1. Download this repo as a ZIP (the green **Code** button → **Download ZIP**) and unzip it somewhere you'll find again. Cloning works too, but it's never required.
+1. Download this repo as a ZIP (the green **Code** button, then **Download ZIP**) and unzip it somewhere you'll find again. Cloning works too, but it's never required.
 2. Open Claude Desktop and point a Cowork session at the unzipped `course-materials/` folder.
-3. Say: *"I'm starting the course — read COMPANION_INSTRUCTIONS.md and take me to Module 0."*
+3. Say: *"I'm starting the course. Read COMPANION_INSTRUCTIONS.md and take me to Module 0."*
 
-The reference site lives at [cd4pms.deanpeters.com](https://cd4pms.deanpeters.com) for lookup and recap — but the folder in front of you is the course.
+The reference site lives at [cd4pms.deanpeters.com](https://cd4pms.deanpeters.com) for lookup and recap, but the folder in front of you is the course.
 
-Each lesson states an objective, the files to open, prompts to try, what a good result looks like, and where human judgment still matters.
+## What you'll learn
 
-## Repository structure
+Seven modules, one continuous product story. You carry the same product from raw discovery all the way to launch:
 
-```text
-claude-desktop-for-product-managers/
-├── README.md                 — this file
-├── CLAUDE.md                 — operating contract for Claude sessions in this repo
-├── CONSTITUTION.md           — guardrails: clean-room, audience, teaching principles
-├── PLAN.md                   — build roadmap and current status
-├── docs/
-│   ├── START_HERE.md         — reading path for contributors
-│   └── course-architecture.md — modules, sequence, lesson shape
-├── course-materials/
-│   ├── README.md
-│   ├── COMPANION_INSTRUCTIONS.md — how Claude should behave as course companion
-│   ├── lesson-modules/       — module-0 through module-6
-│   ├── company-context/      — practice company materials (Phase 1)
-│   └── exercises/            — raw files learners work against
-└── website/                  — reference site (Astro + Starlight, static)
-```
+1. **Getting set up.** Claude Desktop in plain PM English, and how the course works.
+2. **Fundamentals.** Read, synthesize, structure, edit, and verify, without drowning in output.
+3. **Understanding the problem space.** Discovery synthesis, segments, personas, jobs to be done, problem framing.
+4. **Shaping the opportunity.** Name the bet, build a minimum viable narrative, prototype it as something clickable, pressure-test it, and make a real go or no-go call.
+5. **Delivery artifacts.** The proof-of-concept slice, the epic, the stories, and the PRD written last, when your thinking has earned it.
+6. **Advanced workflows.** Projects, Skills, connectors, and longer-running work with checkpoints you set.
+7. **Taking it to market.** Messaging, a working demo, the GTM plan, rollout, and reporting that updates itself.
 
-## Current status
+## How the lessons work
 
-Initial bootstrap. Root contracts, course architecture, module skeletons, and the reference-site scaffold (Astro + Starlight) exist. The practice company and full lesson set do not — see `PLAN.md`.
+Every lesson gives you an objective, the files to open, prompts to try, what a good result looks like, and a checklist for judging the output. Claude acts as your instructor and checks your work honestly. The judgment calls stay yours; that's the point of the course, not a limitation of it.
+
+## Where things stand
+
+This course is being built in the open. The structure, the lesson format, and the first lessons exist today; the practice company and the full lesson set are landing next. Watch this repo or check the site for progress.
+
+## For contributors
+
+Start with [docs/START_HERE.md](docs/START_HERE.md), then [CONSTITUTION.md](CONSTITUTION.md). The short version: original work only, learner first, and the learner path never requires a terminal.
