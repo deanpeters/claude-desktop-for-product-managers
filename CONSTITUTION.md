@@ -14,12 +14,12 @@ The opinion this course holds: **Claude is most valuable when it helps a PM reas
 
 ## What this project is not
 
-- a derivative rebrand of anyone else's course
+- an imitation of anyone else's course
 - a prompt collection
 - a coding bootcamp in disguise
 - an argument for replacing Product Managers with AI
 
-## Clean-room rule
+## Original work
 
 Everything here is written from scratch.
 

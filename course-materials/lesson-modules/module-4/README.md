@@ -1,6 +1,6 @@
 # Module 4: Turning the opportunity into delivery artifacts
 
-The build-facing outputs, produced last, when the thinking has earned them.
+The build-facing outputs your team will actually use, produced last, when the thinking has earned them. Expect your engineers to notice the difference.
 
 ## Lessons
 

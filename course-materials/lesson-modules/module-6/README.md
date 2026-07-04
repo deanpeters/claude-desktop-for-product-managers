@@ -1,6 +1,6 @@
 # Module 6: Taking it to market (capstone)
 
-One big bundle: messaging, development, deployment, and GTM planning. The product the learner has carried since Module 2 finally leaves the building, and every Claude Desktop element from Modules 0 through 5 gets used in anger.
+The victory lap that's also the final exam. Messaging, development, deployment, and GTM planning in one big bundle: the product you've carried since Module 2 finally leaves the building, and everything you've learned gets used in anger.
 
 ## Lessons
 

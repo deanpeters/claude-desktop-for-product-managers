@@ -1,6 +1,6 @@
 # Module 3: Shaping the opportunity
 
-The learn-fast core of the course. Low-res idea in, high-res decision out: from a well-framed problem to a tested concept and a real call.
+The part of the course that pays for itself. Low-res idea in, high-res decision out: you'll take a well-framed problem to a tested concept and a real call in an afternoon, not a quarter.
 
 ## Lessons
 

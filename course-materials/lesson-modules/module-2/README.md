@@ -1,6 +1,6 @@
 # Module 2: Understanding the problem space
 
-Discovery synthesis through problem framing. No solutions allowed yet. That's the point.
+Turn a messy pile of research into evidence you can defend in any room. No solutions allowed yet. That's the point, and by the end of this module you'll know exactly why.
 
 ## Lessons
 

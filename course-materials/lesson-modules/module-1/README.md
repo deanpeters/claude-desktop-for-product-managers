@@ -1,6 +1,6 @@
 # Module 1: Fundamentals
 
-The core moves: read, synthesize, structure, edit, verify. Everything later builds on these.
+The core moves: read, synthesize, structure, edit, verify. Master these and every later module compounds. Most PMs feel the speed difference within the first hour.
 
 ## Lessons
 

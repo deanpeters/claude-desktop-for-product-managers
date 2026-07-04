@@ -15,7 +15,7 @@ Operating contract for Claude (Desktop, Code, or any session) and human contribu
 
 ## Non-negotiables
 
-1. **Clean-room.** Do not import, paraphrase, or lightly rewrite content from third-party courses, repos, or websites. Structure inspiration is fine; copied copy is not.
+1. **Original work.** Do not import, paraphrase, or lightly rewrite content from third-party courses, repos, or websites. Structure inspiration is fine; copied copy is not.
 2. **No real company names** that trace to a client, prospect, competitor, or vendor engagement — anywhere, ever, including as prohibited examples. Fictional companies only, and they must not echo a real one. If in doubt, stop and ask Dean.
 3. **No fake magic.** Never claim a Claude Desktop feature is wired up when it isn't. If a lesson needs setup, say so plainly.
 4. **No hype copy.** Lessons teach a workflow with visible judgment, or they don't ship.

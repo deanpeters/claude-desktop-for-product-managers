@@ -1,6 +1,6 @@
 # Module 5: Advanced workflows
 
-Making it repeatable: first for you, then for your team.
+Making it repeatable: first for you, then for your team. This is where one good week becomes your default week.
 
 ## Lessons
 

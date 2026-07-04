@@ -1,6 +1,6 @@
 # Module 0: Getting set up
 
-Orientation. No product work yet, just getting the learner and Claude Desktop into the same room.
+Your on-ramp. By the end of this module you'll be comfortable driving Claude Desktop and you'll know exactly how the course works. No product work yet; that comes soon enough.
 
 ## Lessons
 

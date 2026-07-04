@@ -1,5 +1,5 @@
 # Exercises
 
-Raw working files for the lessons: discovery notes, research snippets, small datasets, draft PRDs, strategy docs.
+The raw working files for your lessons: discovery notes, research snippets, small datasets, draft PRDs, strategy docs. They're built to feel like the real thing, so what you practice here transfers straight to your job.
 
-**Not built yet.** Exercise files arrive with their lessons (Phase 2 onward) so every file exists because a lesson needs it. No orphaned props.
+Each file arrives alongside the lesson that needs it, so everything in this folder has a purpose.

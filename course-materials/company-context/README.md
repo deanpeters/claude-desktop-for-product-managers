@@ -1,5 +1,5 @@
 # Company Context
 
-The practice company lives here: company overview, product overview, personas, competitive landscape.
+The practice company will live here: a believable product, a real-feeling market, personas you'll recognize from your own hallways, and one very confident executive with one very large ask.
 
-**Not built yet.** This is a deliberate Phase 1 decision (see `../../PLAN.md`): the company must carry the full arc from discovery through launch, feel credible to working PMs, and be invented fresh, not an echo of any other course's practice company. Don't stub it with a throwaway.
+You'll spend the whole course inside this company, carrying its product from raw discovery to launch. That's why it's being built with care rather than stubbed with a throwaway. Until it lands, early lessons note what they're waiting on.

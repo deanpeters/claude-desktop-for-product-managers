@@ -1,20 +1,38 @@
 # Course Materials
 
-This folder is the course. If you're here to learn, you're in the right place.
+Welcome. This folder is the course, and it was built for you.
 
-## Getting started
+## Who this is for
+
+Product managers and product leaders at any level. Brand new to Claude Desktop? Perfect. Twenty years into product? Also perfect. If your week involves discovery, decisions, stakeholders, and shipping, your work is in here.
+
+## What you'll get out of it
+
+You'll learn to do your actual job faster and better with Claude Desktop as your working partner: synthesize a pile of research in minutes, frame problems that survive scrutiny, test a risky idea before anyone builds it, produce delivery artifacts your team respects, and plan a launch that doesn't run on adrenaline. Taught by experienced product managers and educators, without the hype.
+
+## How to start
 
 1. Open Claude Desktop.
 2. Start a Cowork session pointed at this folder.
 3. Say: "I'm starting the course. Read COMPANION_INSTRUCTIONS.md and take me to Module 0."
 
+That's the whole setup. Claude becomes your instructor, the pace is yours, and every lesson tells you exactly what good looks like.
+
 ## What's here
 
 - `lesson-modules/`: the lessons, module-0 through module-6, in order
-- `company-context/`: the practice company you'll work against (coming in Phase 1)
-- `exercises/`: raw files the lessons have you work with
+- `company-context/`: the practice company you'll work against
+- `exercises/`: the raw files your lessons use
 - `COMPANION_INSTRUCTIONS.md`: how Claude behaves as your course companion
 
-## Current reality
+## When you're stuck
 
-This is the bootstrap. The module skeletons and course shape exist; the practice company and full lesson set are being built (see `../PLAN.md`). Nothing here pretends to be more wired-up than it is.
+Ask Claude to slow down, re-explain, or show you an example. That's not cheating; that's the skill you're here to build. Every lesson ends with a review checklist, so you'll always know whether your work passed and why.
+
+## When you want more
+
+The reference site at [cd4pms.deanpeters.com](https://cd4pms.deanpeters.com) has quick recaps and lookups. And when you're ready for live training, team workshops, or a coach with opinions, the product people behind this course are at [productside.com](https://www.productside.com).
+
+## Where things stand
+
+The course is being built in the open. The structure and first lessons are here today; the practice company and remaining lessons are landing next. Nothing in this folder pretends to be more finished than it is.
