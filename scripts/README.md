@@ -6,6 +6,10 @@ Contributor-side tooling only. **Learners never need anything in this folder** â
 
 The model in one line: your Mac builds the site and mails the finished files to Dreamhost; the server just holds files.
 
+**The easiest way: ask Claude.** In a Claude Code session in this repo, say "deploy the site." Claude runs the steps below and reports back. You never need to touch them yourself.
+
+**The eventual way: nobody deploys.** Once this repo lives on GitHub, a GitHub Action will build and ship the site automatically whenever changes land on main. Until then, the manual path follows.
+
 One-time setup (saves the server address):
 
 ```bash

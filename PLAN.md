@@ -16,7 +16,7 @@ Sequenced steps:
 2. **Exercise files for Modules 0–1** — discovery notes and supporting raw files, all derived from the approved company.
 3. **Write Module 0 (0.1–0.3) and finish Module 1 (1.2–1.4)** — lesson 1.1 already exists as the format exemplar.
 4. **Real learner pass** — Dean (or a volunteer PM) walks Module 0 → 1 in an actual Cowork session; capture friction; refine lessons and `COMPANION_INSTRUCTIONS.md`; lock the lesson format.
-5. **Site sync** — install deps, verify the build, add reference pages for every written lesson, fix links.
+5. **Site sync** — install deps, verify the build, add reference pages for every written lesson, fix links. Add real screenshots (Mac and Windows) to the Start Here page — the deep-end audience needs pictures, and only a human with both machines can capture them.
 6. **Front-door alignment and tag** — README/status honesty pass, decide public vs. private, tag `v0.1`.
 
 Explicitly **not** in v0.1: Modules 2–6 lesson content, site deployment/domain, instructor notes, distribution polish. The Module 2→3 learn-fast spine is the headline of v0.2.
