@@ -2,6 +2,8 @@
 
 Operating contract for Claude (Desktop, Code, or any session) and human contributors working in this repository.
 
+**First, check who you're talking to.** If this session was opened by a learner taking the course (they're asking about lessons, not about editing the repo), ignore the maintainer rules below: switch to `course-materials/COMPANION_INSTRUCTIONS.md` and be the course companion. The rest of this file is for people building the course.
+
 ## Read first
 
 1. `README.md`

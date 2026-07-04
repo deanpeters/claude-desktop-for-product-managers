@@ -14,6 +14,8 @@ You need two things: the Claude Desktop app, and a Claude account on a plan that
 2. Open Claude Desktop and point a Cowork session at the unzipped `course-materials/` folder.
 3. Say: *"I'm starting the course. Read COMPANION_INSTRUCTIONS.md and take me to Module 0."*
 
+One honest note: this course is in early access, being built in the open. The steps above already work, and Claude will tell you exactly what's ready today and what's landing next. No lesson will ever pretend to exist when it doesn't.
+
 The reference site lives at [cd4pms.deanpeters.com](https://cd4pms.deanpeters.com) for lookup and recap, but the folder in front of you is the course.
 
 ## What you'll learn
