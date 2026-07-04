@@ -2,12 +2,12 @@
 
 ## Objective
 
-Use Claude to digest a folder of raw product context — company docs, discovery notes — and produce a one-page synthesis you'd actually stand behind in a meeting.
+Use Claude to digest a folder of raw product context (company docs, discovery notes) and produce a one-page synthesis you'd actually stand behind in a meeting.
 
 ## Open these files
 
-- `course-materials/company-context/` — the practice company overview and personas *(arrives in Phase 1; this lesson activates then)*
-- `course-materials/exercises/discovery-notes/` — raw customer discovery notes
+- `course-materials/company-context/`: the practice company overview and personas *(arrives in Phase 1; this lesson activates then)*
+- `course-materials/exercises/discovery-notes/`: raw customer discovery notes
 
 ## Suggested prompts
 
@@ -36,4 +36,4 @@ Flag anything that's your inference rather than their words.
 
 ## Extension
 
-Ask Claude to argue the *opposite* read of the same notes — what's the strongest case that the recurring complaint is noise, not signal? Decide which read you believe and why.
+Ask Claude to argue the *opposite* read of the same notes: what's the strongest case that the recurring complaint is noise, not signal? Decide which read you believe and why.
