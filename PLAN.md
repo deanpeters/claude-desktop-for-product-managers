@@ -21,7 +21,7 @@ Sequenced steps:
 
 Explicitly **not** in v0.1: Modules 2–6 lesson content, site deployment/domain, instructor notes, distribution polish. The Module 2→3 learn-fast spine is the headline of v0.2.
 
-Open decisions for Dean: the company concept (step 1 gate), and whether the repo goes public at v0.1 or after the spine lands.
+Open decision for Dean: the company concept (step 1 gate). Decided 2026-07-04: the repo is public before v0.1, at github.com/deanpeters/claude-desktop-for-product-managers, with the README carrying the early-access disclosure.
 
 ## Phase 0: Bootstrap (current)
 

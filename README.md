@@ -10,7 +10,7 @@ No coding. No terminal. No setup wall. You work on realistic product files, the 
 
 You need two things: the Claude Desktop app, and a Claude account on a plan that includes Cowork. That's the whole prerequisite list.
 
-1. Download this repo as a ZIP (the green **Code** button, then **Download ZIP**) and unzip it somewhere you'll find again. Cloning works too, but it's never required.
+1. [Download the course as a ZIP](https://github.com/deanpeters/claude-desktop-for-product-managers/archive/refs/heads/main.zip) (one click, no GitHub account needed) and unzip it somewhere you'll find again. It unpacks as a folder named `claude-desktop-for-product-managers-main`. Cloning works too, but it's never required.
 2. Open Claude Desktop and point a Cowork session at the unzipped `course-materials/` folder.
 3. Say: *"I'm starting the course. Read COMPANION_INSTRUCTIONS.md and take me to Module 0."*
 
@@ -18,10 +18,12 @@ Want a hand to hold instead? The [Start Here guide](https://cdesktop.deanpeters.
 
 ```text
 I'm a product manager setting up the "Claude Desktop for Product Managers"
-course. Ask me whether I'm on Mac or Windows, then walk me through it one
-step at a time: downloading the course ZIP, unzipping it, finding the
-course-materials folder, opening a Cowork session in Claude Desktop, and
-pointing it at that folder. Check that each step worked before the next.
+course from https://github.com/deanpeters/claude-desktop-for-product-managers
+Ask me whether I'm on Mac or Windows, then walk me through it one step at
+a time: downloading the course ZIP from that page, unzipping it, finding
+the course-materials folder inside it, opening a Cowork session in Claude
+Desktop, and pointing it at that folder. Check each step worked before
+moving to the next.
 ```
 
 One honest note: this course is in early access, being built in the open. The steps above already work, and Claude will tell you exactly what's ready today and what's landing next. No lesson will ever pretend to exist when it doesn't.
