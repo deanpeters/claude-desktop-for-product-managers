@@ -41,3 +41,14 @@ Flag anything that's your inference rather than their words.
 ## Extension
 
 Ask Claude to argue the *opposite* read of the same notes: what's the strongest case that the recurring complaint is noise, not signal? Decide which read you believe and why.
+
+## If you're lost
+
+Paste this into your Cowork session, even a brand-new one:
+
+```text
+I'm taking the Claude Desktop for Product Managers course, working on
+Lesson 1.1 (Reading and Synthesizing). Read COMPANION_INSTRUCTIONS.md,
+my-progress.md, and this lesson's LESSON.md file, tell me where I am,
+and walk me through the next step slowly.
+```

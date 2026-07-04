@@ -14,7 +14,7 @@ Sequenced steps:
 
 1. **Practice company** (Phase 1, the blocker for everything) — company overview, product overview, personas, competitive landscape, and the HiPPO's demand memo. *Gate: Dean approves the company concept before docs are written — client-IP and distinctness check.*
 2. **Exercise files for Modules 0–1** — discovery notes and supporting raw files, all derived from the approved company.
-3. **Write Module 0 (0.1–0.3) and finish Module 1 (1.2–1.4)** — lesson 1.1 already exists as the format exemplar.
+3. **Write Module 0 (0.1–0.4) and finish Module 1 (1.2–1.4)** — lesson 1.1 already exists as the format exemplar. Module 0 covers the three Claude surfaces (chat, Cowork, Claude Code) and the home-base Project lesson; every lesson ships with its if-you're-lost rescue prompt.
 4. **Real learner pass** — Dean (or a volunteer PM) walks Module 0 → 1 in an actual Cowork session; capture friction; refine lessons and `COMPANION_INSTRUCTIONS.md`; lock the lesson format.
 5. **Site sync** — install deps, verify the build, add reference pages for every written lesson, fix links. Add real screenshots (Mac and Windows) to the Start Here page — the deep-end audience needs pictures, and only a human with both machines can capture them.
 6. **Front-door alignment and tag** — README/status honesty pass, decide public vs. private, tag `v0.1`.

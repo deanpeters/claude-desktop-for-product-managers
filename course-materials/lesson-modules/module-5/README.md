@@ -11,4 +11,15 @@ Making it repeatable: first for you, then for your team. This is where one good 
 - `5.5-quality-control-patterns/`: review discipline at scale
 - `5.6-packaging-for-teams/`: turning your workflow into something colleagues can adopt
 
+## If you're lost
+
+Paste this into your Cowork session, even a brand-new one:
+
+```text
+I'm taking the Claude Desktop for Product Managers course and I'm lost
+somewhere in Module 5 (Advanced workflows). Read COMPANION_INSTRUCTIONS.md
+and my-progress.md in this folder, tell me where I am, and offer me
+three ways forward.
+```
+
 Status: outlined, not yet written.

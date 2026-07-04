@@ -16,4 +16,15 @@ The victory lap that's also the final exam. Messaging, development, deployment, 
 
 Lessons here deliberately lean on the Module 5 toolkit: Skills for repeatable launch assets, connectors to push work into team tools, Projects for durable launch context, loops and goals extended into standing routines. If a learner can complete this module, their workflow is real.
 
+## If you're lost
+
+Paste this into your Cowork session, even a brand-new one:
+
+```text
+I'm taking the Claude Desktop for Product Managers course and I'm lost
+somewhere in Module 6 (Taking it to market). Read COMPANION_INSTRUCTIONS.md
+and my-progress.md in this folder, tell me where I am, and offer me
+three ways forward.
+```
+
 Status: outlined, not yet written.

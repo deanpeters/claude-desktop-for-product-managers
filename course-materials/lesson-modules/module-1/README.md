@@ -9,4 +9,15 @@ The core moves: read, synthesize, structure, edit, verify. Master these and ever
 - `1.3-safe-edits/`: changing a document with Claude and reviewing the diff like an editor
 - `1.4-verifying-results/`: catching confident nonsense before it ships
 
+## If you're lost
+
+Paste this into your Cowork session, even a brand-new one:
+
+```text
+I'm taking the Claude Desktop for Product Managers course and I'm lost
+somewhere in Module 1 (Fundamentals). Read COMPANION_INSTRUCTIONS.md
+and my-progress.md in this folder, tell me where I am, and offer me
+three ways forward.
+```
+
 Status: 1.1 drafted; rest outlined.

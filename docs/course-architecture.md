@@ -18,7 +18,9 @@ The course covers **every element of Claude Desktop**, but never as a feature to
 
 | Claude Desktop element | Where it's taught | Narrative moment |
 |---|---|---|
+| The three surfaces: chat, Cowork, Claude Code | Module 0 | knowing which room you're standing in |
 | Chat, models, Cowork on a folder | Module 0 | getting into the room |
+| Projects (home base) | Module 0 | a notebook and rescue line outside the classroom |
 | Reading, synthesis, structured output, safe edits | Module 1 | digesting the company's context |
 | Web search | Module 2 | market and landscape scan |
 | Artifacts (concept prototyping) | Module 3 | something concrete to react to |
@@ -42,9 +44,12 @@ A reference site (`website/`, Astro + Starlight) supports lookup and recap. The 
 
 ### Module 0: Getting set up
 
-- what Claude Desktop is (models, Cowork, Artifacts — in plain PM English)
+- the three Claude surfaces in plain PM English — claude.ai chat, Claude Desktop with Cowork, and Claude Code: what each is for, and how to tell which room you're standing in
 - pointing a Cowork session at this folder
+- setting up a home-base Project — the learner's notebook and rescue line for whenever they're outside the classroom
 - how the course works and how to orient in the materials
+
+Module 0 doubles as the course's safety net: a learner who understands the surfaces and has a home-base Project can always find their way back, no matter how lost they get.
 
 ### Module 1: Fundamentals
 
@@ -125,8 +130,9 @@ Every lesson has exactly seven fields:
 5. **Good result** — what success looks like
 6. **Review checklist** — where judgment applies
 7. **Extension** — one harder variation for the ambitious
+8. **If you're lost** — a copy-paste rescue prompt that re-orients the learner and a fresh Claude session from anywhere, mid-lesson or days later
 
-The "why and when" field is load-bearing for adoption: learners are being dropped into an unfamiliar way of working, and every lesson must earn its place in their real week before asking for their effort.
+Two of these fields exist purely for adoption. "Why and when" earns the lesson's place in the learner's real week before asking for effort. "If you're lost" guarantees that no amount of confusion is terminal: every lesson carries its own way back.
 
 ## Learning sequence
 

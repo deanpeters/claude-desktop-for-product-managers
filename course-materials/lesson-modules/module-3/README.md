@@ -16,4 +16,15 @@ The part of the course that pays for itself. Low-res idea in, high-res decision 
 
 A prototype existing proves nothing. This module isn't done until the learner has made, and defended, a go/no-go/revise call on their own concept.
 
+## If you're lost
+
+Paste this into your Cowork session, even a brand-new one:
+
+```text
+I'm taking the Claude Desktop for Product Managers course and I'm lost
+somewhere in Module 3 (Shaping the opportunity). Read
+COMPANION_INSTRUCTIONS.md and my-progress.md in this folder, tell me
+where I am, and offer me three ways forward.
+```
+
 Status: outlined, not yet written.

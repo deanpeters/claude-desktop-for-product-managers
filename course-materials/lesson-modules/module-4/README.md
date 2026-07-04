@@ -11,4 +11,15 @@ The build-facing outputs your team will actually use, produced last, when the th
 - `4.5-simple-data-analysis/`: small datasets, honest charts, no spreadsheet fear
 - `4.6-review-loops/`: quality passes before anything leaves the room
 
+## If you're lost
+
+Paste this into your Cowork session, even a brand-new one:
+
+```text
+I'm taking the Claude Desktop for Product Managers course and I'm lost
+somewhere in Module 4 (Delivery artifacts). Read COMPANION_INSTRUCTIONS.md
+and my-progress.md in this folder, tell me where I am, and offer me
+three ways forward.
+```
+
 Status: outlined, not yet written.
