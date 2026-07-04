@@ -27,7 +27,7 @@ Operating contract for Claude (Desktop, Code, or any session) and human contribu
 
 - Draft first: produce the most complete version before asking for sign-off.
 - Optimize for a reader who is not a daily terminal user. GUI-first framing; the terminal is never required.
-- Keep lesson structure identical across modules — see `docs/course-architecture.md` for the six-field lesson shape.
+- Keep lesson structure identical across modules — see `docs/course-architecture.md` for the seven-field lesson shape. The "why and when" field is mandatory in every lesson.
 - Markdown-first, `.md` extension for every learner-facing file.
 - Small named files over monoliths. Keep the front door (README) honest about current state.
 - Voice: direct, practical, warm, concise. Outcomes over outputs. No corporate beige, no buzzword fog.

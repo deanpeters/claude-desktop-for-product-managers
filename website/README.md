@@ -26,7 +26,7 @@ npm run build
 ## Content rules
 
 - One directory per module, matching the sidebar groups in `astro.config.mjs`.
-- Pages summarize and reinforce lessons; the six-field lesson files in `course-materials/` remain the source of truth. If the two drift, the site is wrong.
+- Pages summarize and reinforce lessons; the seven-field lesson files in `course-materials/` remain the source of truth. If the two drift, the site is wrong.
 
 ## Deployment
 

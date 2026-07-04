@@ -116,14 +116,17 @@ A fictional company, built in Phase 1. Requirements:
 
 ## Lesson shape
 
-Every lesson has exactly six fields:
+Every lesson has exactly seven fields:
 
 1. **Objective** — what the learner is trying to do
-2. **Open these files** — the grounding material
-3. **Suggested prompts** — starting points, not scripts
-4. **Good result** — what success looks like
-5. **Review checklist** — where judgment applies
-6. **Extension** — one harder variation for the ambitious
+2. **Why and when** — why this matters to a product manager, and when in real work they'd reach for it
+3. **Open these files** — the grounding material
+4. **Suggested prompts** — starting points, not scripts
+5. **Good result** — what success looks like
+6. **Review checklist** — where judgment applies
+7. **Extension** — one harder variation for the ambitious
+
+The "why and when" field is load-bearing for adoption: learners are being dropped into an unfamiliar way of working, and every lesson must earn its place in their real week before asking for their effort.
 
 ## Learning sequence
 

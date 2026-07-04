@@ -32,7 +32,15 @@ Seven modules, one continuous product story. You carry the same product from raw
 
 ## How the lessons work
 
-Every lesson gives you an objective, the files to open, prompts to try, what a good result looks like, and a checklist for judging the output. Claude acts as your instructor and checks your work honestly. The judgment calls stay yours; that's the point of the course, not a limitation of it.
+Every lesson gives you an objective, explains why and when it's applicable to you as a product manager, the files to open, prompts to try, what a good result looks like, and a checklist for judging the output. Claude facilitates your learning as an instructor and checks your work honestly. The judgment calls stay yours; that's the point of the course, not a limitation of it.
+
+## Your instructor is in the folder
+
+This course uses Claude Desktop's Cowork mode as its classroom. Point a session at the course folder and Claude reads the materials, teaches the current lesson, paces you one step at a time, checks your work against each lesson's checklist, and remembers your progress between sessions. You're learning a new way of working inside a tool that may also be new to you. That's a lot, and you're not expected to navigate it alone.
+
+## The easy button
+
+Lost, stuck, or overwhelmed at any point? Just say so. Say "I'm lost" or "help" and Claude will stop, tell you where you are and what you were working on, and offer three ways forward: keep going with more support, redo the current step slower with a worked example, or zoom out to the course map. No judgment, no penalty, no starting over.
 
 ## Where things stand
 
