@@ -1,21 +1,32 @@
 #!/usr/bin/env bash
 # Contributor tool — learners never touch this (zero-terminal promise).
 #
-# Builds the reference site and rsyncs the static output to the host.
-# The site is fully static, so the server needs nothing but files.
+# Builds the site on THIS machine, then copies the finished files to
+# the web host. The server never builds anything; it only holds files.
 #
-# Usage:
-#   DEPLOY_DEST="user@server.dreamhost.com:~/cdesktop.deanpeters.com/" ./scripts/deploy.sh
+# One-time setup (saves the server address so you never type it again):
+#   echo "youruser@yourserver.dreamhost.com:~/cdesktop.deanpeters.com/" > scripts/.deploy-destination
 #
-# Set DEPLOY_DEST to your Dreamhost SSH user, host, and the subdomain's
-# web directory. Keep it out of the repo — it's an env var on purpose.
+# Every deploy after that is just:
+#   ./scripts/deploy.sh
 
 set -euo pipefail
 
-cd "$(dirname "$0")/../website"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+DEST_FILE="$SCRIPT_DIR/.deploy-destination"
 
-: "${DEPLOY_DEST:?Set DEPLOY_DEST to user@host:path for the subdomain web directory}"
+# Address comes from the saved file, or a DEPLOY_DEST env var if you prefer.
+if [[ -z "${DEPLOY_DEST:-}" && -f "$DEST_FILE" ]]; then
+  DEPLOY_DEST="$(head -n1 "$DEST_FILE")"
+fi
 
+if [[ -z "${DEPLOY_DEST:-}" ]]; then
+  echo "No destination set. One-time setup:"
+  echo '  echo "youruser@yourserver.dreamhost.com:~/cdesktop.deanpeters.com/" > scripts/.deploy-destination'
+  exit 1
+fi
+
+cd "$SCRIPT_DIR/../website"
 npm run build
 rsync -avz --delete dist/ "$DEPLOY_DEST"
 
