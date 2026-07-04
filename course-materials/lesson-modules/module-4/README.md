@@ -2,6 +2,10 @@
 
 The build-facing outputs your team will actually use, produced last, when the thinking has earned them. Expect your engineers to notice the difference.
 
+## Why and when
+
+Delivery artifacts are how your thinking becomes your team's work. A badly framed epic wastes sprints, and a PRD written too early locks in your least-informed thinking. You'll reach for these moves the moment a validated concept needs to become something a team can build: sprint planning, backlog refinement, and every artifact review where quality gets decided.
+
 ## Lessons
 
 - `4.1-proof-of-concept-slice/`: the smallest version that tests the bet

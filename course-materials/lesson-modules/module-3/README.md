@@ -2,6 +2,10 @@
 
 The part of the course that pays for itself. Low-res idea in, high-res decision out: you'll take a well-framed problem to a tested concept and a real call in an afternoon, not a quarter.
 
+## Why and when
+
+Testing a risky idea cheaply, before anyone builds it, is the highest-leverage skill in product management. This module is that skill, end to end. You'll reach for it whenever engineering time is about to be committed to an unvalidated idea, whenever an executive arrives certain about what to build, and whenever you need evidence instead of opinions to settle a roomful of confident people.
+
 ## Lessons
 
 - `3.1-framing-the-problem/`: a crisp, defensible problem statement

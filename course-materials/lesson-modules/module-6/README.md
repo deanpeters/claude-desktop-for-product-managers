@@ -2,6 +2,10 @@
 
 The victory lap that's also the final exam. Messaging, development, deployment, and GTM planning in one big bundle: the product you've carried since Module 2 finally leaves the building, and everything you've learned gets used in anger.
 
+## Why and when
+
+Shipping isn't launching. Products die in silence every week because nobody framed the message, planned the rollout, or watched the numbers afterward. You'll reach for this module in the six to eight weeks before any launch, and for its reporting moves the morning after, when someone asks how it's going and you'd rather answer than compile.
+
 ## Lessons
 
 - `6.1-from-positioning-to-messaging/`: message house and value props per persona

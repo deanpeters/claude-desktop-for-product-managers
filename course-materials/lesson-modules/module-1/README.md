@@ -2,6 +2,10 @@
 
 The core moves: read, synthesize, structure, edit, verify. Master these and every later module compounds. Most PMs feel the speed difference within the first hour.
 
+## Why and when
+
+These are the moves you'll use every single working day: digesting context, asking for output you can reuse, editing safely, and catching confident nonsense before it ships. Every later module assumes them, and so does every real task you'll ever hand to Claude. You'll reach for them when you inherit a product, prep for a meeting on a deadline, or face a folder of documents you don't have time to read.
+
 ## Lessons
 
 - `1.1-reading-and-synthesizing/`: digest a pile of files without drowning (written; the format exemplar)

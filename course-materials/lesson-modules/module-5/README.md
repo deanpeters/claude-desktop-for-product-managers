@@ -2,6 +2,10 @@
 
 Making it repeatable: first for you, then for your team. This is where one good week becomes your default week.
 
+## Why and when
+
+A good week with Claude is nice. A repeatable week is a career change. This module turns your wins into workflows: durable context, packaged skills, connected tools, and longer-running work you supervise instead of babysit. You'll reach for it the second time you catch yourself doing the same task from scratch, and the day a teammate asks how you're suddenly this fast.
+
 ## Lessons
 
 - `5.1-projects-and-memory/`: durable context so Claude stops starting from zero
