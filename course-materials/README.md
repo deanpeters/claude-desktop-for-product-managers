@@ -31,7 +31,7 @@ Ask Claude to slow down, re-explain, or show you an example. That's not cheating
 
 ## When you want more
 
-The reference site at [cdesktop.deanpeters.com](https://cdesktop.deanpeters.com) has quick recaps and lookups. This course is built and taught by [Dean Peters](https://deanpeters.com), an AI product management instructor, advisor, and coach for Productside. When you're ready for live training, team workshops, or a coach with opinions, find him at [deanpeters.com](https://deanpeters.com).
+The reference site at [cdesktop.deanpeters.com](https://cdesktop.deanpeters.com) has quick recaps and lookups. This course is built and taught by [Dean Peters](https://deanpeters.substack.com), an AI product management instructor, advisor, and coach for Productside. When you're ready for live training, team workshops, or a coach with opinions, find him at [deanpeters.substack.com](https://deanpeters.substack.com).
 
 ## Where things stand
 
