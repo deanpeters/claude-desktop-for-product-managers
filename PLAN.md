@@ -53,7 +53,7 @@ The company docs should plant a HiPPO — a senior stakeholder with a bloated, c
 
 The reference surface is decided: `website/`, built on Astro + Starlight (static output, Pagefind search) — deliberately not the Next.js + Nextra route most course sites take.
 
-Hosting is decided too: static files on a Dreamhost subdomain, **cd4pms.deanpeters.com** — no Node on the server, build locally and rsync `dist/` up via `scripts/deploy.sh`. Later nicety: a GitHub Action that deploys on push to main.
+Hosting is decided too: static files on a Dreamhost subdomain, **cdesktop.deanpeters.com** — no Node on the server, build locally and rsync `dist/` up via `scripts/deploy.sh`. Later nicety: a GitHub Action that deploys on push to main.
 
 - [x] Set the production `site` URL in `astro.config.mjs`
 - [x] Deploy script (`scripts/deploy.sh`)

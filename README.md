@@ -16,7 +16,7 @@ You need two things: the Claude Desktop app, and a Claude account on a plan that
 
 One honest note: this course is in early access, being built in the open. The steps above already work, and Claude will tell you exactly what's ready today and what's landing next. No lesson will ever pretend to exist when it doesn't.
 
-The reference site lives at [cd4pms.deanpeters.com](https://cd4pms.deanpeters.com) for lookup and recap, but the folder in front of you is the course.
+The reference site lives at [cdesktop.deanpeters.com](https://cdesktop.deanpeters.com) for lookup and recap, but the folder in front of you is the course.
 
 ## What you'll learn
 

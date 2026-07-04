@@ -5,7 +5,7 @@
 # The site is fully static, so the server needs nothing but files.
 #
 # Usage:
-#   DEPLOY_DEST="user@server.dreamhost.com:~/cd4pms.deanpeters.com/" ./scripts/deploy.sh
+#   DEPLOY_DEST="user@server.dreamhost.com:~/cdesktop.deanpeters.com/" ./scripts/deploy.sh
 #
 # Set DEPLOY_DEST to your Dreamhost SSH user, host, and the subdomain's
 # web directory. Keep it out of the repo — it's an env var on purpose.
