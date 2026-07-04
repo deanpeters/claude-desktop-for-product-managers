@@ -23,7 +23,7 @@ Explicitly **not** in v0.1: Modules 2–6 lesson content, site deployment/domain
 
 Open decision for Dean: the company concept (step 1 gate). Decided 2026-07-04: the repo is public before v0.1, at github.com/deanpeters/claude-desktop-for-product-managers, with the README carrying the early-access disclosure.
 
-## Phase 0: Bootstrap (current)
+## Phase 0: Bootstrap (complete, 2026-07-04)
 
 - [x] Root contracts: README, CLAUDE.md, CONSTITUTION, PLAN
 - [x] Course architecture and module skeletons (module-0 through module-6)
@@ -31,7 +31,7 @@ Open decision for Dean: the company concept (step 1 gate). Decided 2026-07-04: t
 - [x] Git initialized, first commit
 - [x] Reference-site scaffold: Astro + Starlight, one overview page per module
 
-## Phase 1: Practice company
+## Phase 1: Practice company (current — the next work session starts here)
 
 Invent a fictional company from scratch — credible to working PMs, broad enough to carry the full arc from discovery through launch (Modules 0–6), and not an echo of any fictional company used in another course we publish (verifying that is part of the concept gate below). Output: company overview, product overview, personas, competitive landscape in `course-materials/company-context/`.
 
@@ -56,11 +56,13 @@ The reference surface is decided: `website/`, built on Astro + Starlight (static
 Hosting is decided too: static files on a Dreamhost subdomain, **cdesktop.deanpeters.com** — no Node on the server, build locally and rsync `dist/` up via `scripts/deploy.sh`. Later nicety: a GitHub Action that deploys on push to main.
 
 - [x] Set the production `site` URL in `astro.config.mjs`
-- [x] Deploy script (`scripts/deploy.sh`)
-- [ ] Create the subdomain in the Dreamhost panel and run the first deploy
+- [x] Deploy script (`scripts/deploy.sh`), passwordless via the `dreamhost_deploy_ed25519` SSH key
+- [x] Subdomain live with HTTPS; first deploy shipped 2026-07-04 (11 pages, search, sitemap)
+- [ ] GitHub Action so pushes to main deploy automatically (repo is public, so this is unblocked)
+- [ ] Screenshots: six placeholders in the site marked `SCREENSHOT NEEDED`; capture after v0.1 content lands
 - Sync lesson content into reference pages as lessons land (one directory per module, matching the sidebar)
 - Style the homepage
-- Distribution: "Get the course" is in the README (ZIP download, zero-terminal); revisit polish at v0.1
+- Distribution: "Get the course" is in the README (one-click ZIP from GitHub, zero-terminal); revisit polish at v0.1
 
 ## Phase 5: Launch readiness
 
